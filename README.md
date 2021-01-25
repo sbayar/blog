@@ -1,9 +1,9 @@
 # About the project
 
-This project utilizes redux, reaxt-redux and redux-thunk, axios.
-Redux: The redux library.
-React-redux. Integration layer between react and redux.
-Axios: Helps us make network requests.
+This project utilizes redux, reaxt-redux and redux-thunk, axios.\
+Redux: The redux library.\
+React-redux. Integration layer between react and redux.\
+Axios: Helps us make network requests.\
 Redux-thunk: Middleware to help us make requests in a redux application.
 
 # Getting Started with Create React App
